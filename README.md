@@ -20,10 +20,9 @@ Example Playbook
 
 ```yml
 - hosts: servers
-    roles:
-        - role: wwwsqldesigner
+  roles:
+    - role: wwwsqldesigner
 ```
-
 
 License
 -------
